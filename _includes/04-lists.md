@@ -1,0 +1,3 @@
+* Palm tree
+* Chocolates
+* Fruits
