@@ -1,3 +1,3 @@
-*Palm tree
-*Chocolates
-*Fruits
+* Palm tree
+* Chocolates
+* Fruits
